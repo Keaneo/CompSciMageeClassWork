@@ -7,6 +7,10 @@ I may have duplicate files written in different languages as practice.
 
 # My languages are:
 C#
+
 Java
+
 JavaScript
+
 Python
+
