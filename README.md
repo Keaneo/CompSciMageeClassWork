@@ -1,8 +1,8 @@
 # CompSciMageeClassWork
 The work I've done on assignments and class questions.
 
-Each week is organised into folders, then each question is usually in a single class file, mostly Java.
-I may have duplicate files written in different languages as practice.
+I'll try to organise by week whenever I bring files back from the schools network.  
+This will also include other practice programs I've written (possibly on class time or at home)  
 
 
 # My languages are:
